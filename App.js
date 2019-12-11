@@ -34,6 +34,7 @@ const AppNavigator = createStackNavigator({
   headerMode: 'none'
 })
 
+console.log('howdy')
 const AppContainer = createAppContainer(AppNavigator)
 
 function App(){
