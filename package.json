@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@sendgrid/mail": "^6.3.1",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "babel-plugin-react-native-classname-to-style": "^1.2.2",
     "babel-plugin-react-native-platform-specific-extensions": "^1.1.1",
     "cors": "^2.8.5",
